@@ -1,8 +1,9 @@
 <h1 align="center"> Elemento X</h1>
 
 <p align="center">
-  <img align="center" src="img/elemento" alt="imagem da gama academy" width=250 > <br> <sub> Gama Experience - XP, é um programa da startup de educação Gama Academy, ajuda no desenvolvimento e aperfeiçoamento das habilidades mais requisitadas pelo Mercado Digital. Essas habilidades podem ser técnicas e comportamentais. </sub>
+  <img align="center" src="img/elemento.png" alt="imagem da gama academy" width=250> <br> <sub> Gama Experience - XP, é um programa da startup de educação Gama Academy, ajuda no desenvolvimento e aperfeiçoamento das habilidades mais requisitadas pelo Mercado Digital. Essas habilidades podem ser técnicas e comportamentais. </sub>
 </p>
+
 
 ## Integrantes do Grupo Elemento X :facepunch::green_heart:
 
