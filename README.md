@@ -14,13 +14,13 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-star)
+:small_green_diamond: [Descrição do projeto](#descrição-do-projeto-star)
 
-:small_blue_diamond: [Plataforma JDIT](#plataforma-Elemento-X-checkered_flag)
+:small_green_diamond: [Plataforma JDIT](#plataforma-Elemento-X-checkered_flag)
 
-:small_blue_diamond: [Deploy da Aplicação com Azure Apps](#deploy-da-aplicação-dash)
+:small_green_diamond: [Deploy da Aplicação com Azure Apps](#deploy-da-aplicação-dash)
 
-:small_blue_diamond: [Linguagens, dependencias e libs utilizadas ](#linguagens-dependencias-e-libs-utilizadas-books)
+:small_green_diamond: [Linguagens, dependencias e libs utilizadas ](#linguagens-dependencias-e-libs-utilizadas-books)
 
 ## Descrição do projeto :star:
 <p align="justify"> Nosso projeto tem o intuito de
