@@ -14,13 +14,14 @@
 
 ### Tópicos 
 
-:small_green_diamond: [Descrição do projeto](#descrição-do-projeto-star)
+:eight_spoked_asterisk: [Descrição do projeto](#descrição-do-projeto-star)
 
-:small_green_diamond: [Plataforma JDIT](#plataforma-Elemento-X-checkered_flag)
+:eight_spoked_asterisk: [Plataforma JDIT](#plataforma-Elemento-X-checkered_flag)
 
-:small_green_diamond: [Deploy da Aplicação com Azure Apps](#deploy-da-aplicação-dash)
+:eight_spoked_asterisk: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
-:small_green_diamond: [Linguagens, dependencias e libs utilizadas ](#linguagens-dependencias-e-libs-utilizadas-books)
+:eight_spoked_asterisk: [Linguagens, dependencias e libs utilizadas ](#linguagens-dependencias-e-libs-utilizadas-books)
+
 
 ## Descrição do projeto :star:
 <p align="justify"> Nosso projeto tem o intuito de
@@ -34,13 +35,16 @@ trabalhar em cima das personas atendidas pela empresa Cabify. Para tal, somos di
 
 :pushpin: Hyper: Marketing Digital/Growth
 
+
 ## Plataforma Elemento X :checkered_flag:
 
 :trophy: Landing Page
 
+
 ## Deploy da Aplicação :dash:
 
 > Em breve
+
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
