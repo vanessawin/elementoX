@@ -16,7 +16,7 @@
 
 :eight_spoked_asterisk: [Descrição do projeto](#descrição-do-projeto-star)
 
-:eight_spoked_asterisk: [Plataforma JDIT](#plataforma-Elemento-X-checkered_flag)
+:eight_spoked_asterisk: [Plataforma Elemento X](#plataforma-Elemento-X-checkered_flag)
 
 :eight_spoked_asterisk: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
