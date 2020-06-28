@@ -11,6 +11,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: 
 
 > Status do Projeto: Em desenvolvimento :warning:
+<br>
 
 ### Tópicos 
 
@@ -21,7 +22,7 @@
 :eight_spoked_asterisk: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
 :eight_spoked_asterisk: [Linguagens, dependencias e libs utilizadas ](#linguagens-dependencias-e-libs-utilizadas-books)
-
+<br>
 
 ## Descrição do projeto :star:
 <p align="justify"> Nosso projeto tem o intuito de
@@ -34,17 +35,17 @@ trabalhar em cima das personas atendidas pela empresa Cabify. Para tal, somos di
 :pushpin: Hustler: Vendas/Inside Sales
 
 :pushpin: Hyper: Marketing Digital/Growth
-
+<br>
 
 ## Plataforma Elemento X :checkered_flag:
 
 :trophy: Landing Page
-
+<br>
 
 ## Deploy da Aplicação :dash:
 
 > Em breve
-
+<br>
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
